@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soul-connection/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Soul Connection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soul-connection/) |
+| **Get License** | [Secure Licensing Rights for Soul Connection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soul-connection/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your touch is burning like a slow fire down my skin
+> I open up the door and let the midnight in
+> We lose our shadows when the lights turn low
+> I want to take you where the wild things grow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
