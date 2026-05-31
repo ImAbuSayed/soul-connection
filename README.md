@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soul-connection/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Soul Connection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soul-connection/) |
+| **Get License** | [Get License For Soul Connection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soul-connection/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `62fd8c9447375687d21c2ecbeb50e64f29fc9580f262511c41782338330d3581` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
